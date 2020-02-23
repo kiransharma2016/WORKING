@@ -66,6 +66,8 @@ https://eksworkshop.com/
 
 https://logz.io/blog/amazon-eks-cluster/
 
+https://aws.amazon.com/eks/getting-started/
+
 #### IBM's kubernetes course
 https://cognitiveclass.ai/courses/kubernetes-course
 
