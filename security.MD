@@ -8,3 +8,5 @@ https://www.youtube.com/watch?v=U_P23SqJaDc
 
 #### pen testing
 http://www.marketjournal.co.uk/penetration-testing-market-seeking-excellent-growth-synopsys-cigital-acunetix-checkmarx-qualys-rapid7/98923/
+
+https://www.youtube.com/watch?v=3Kq1MIfTWCE&t=259s
