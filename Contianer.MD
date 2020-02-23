@@ -70,3 +70,9 @@ https://logz.io/blog/amazon-eks-cluster/
 https://cognitiveclass.ai/courses/kubernetes-course
 
 https://developer.ibm.com/solutions/container-orchestration-and-deployment/?p1=Search&p4=p51303320451&p5=b&cm_mmc=Search_Google-_-1S_1S-_-WW_NA-_-%2Bkubernetes%20%2Bcluster_b&cm_mmca7=71700000062795784&cm_mmca8=aud-311016886972:kwd-307392507547&cm_mmca9=Cj0KCQiAnL7yBRD3ARIsAJp_oLZ6pDp6i0ruWNBAT6j_7JvaZamBArW-NLZ7uuH73kaKfwLGDDUz2iIaAnwDEALw_wcB&cm_mmca10=414757510728&cm_mmca11=b&gclid=Cj0KCQiAnL7yBRD3ARIsAJp_oLZ6pDp6i0ruWNBAT6j_7JvaZamBArW-NLZ7uuH73kaKfwLGDDUz2iIaAnwDEALw_wcB&gclsrc=aw.ds
+
+
+
+#### service mesh
+https://www.youtube.com/watch?v=jXjvnKIprq4
+
