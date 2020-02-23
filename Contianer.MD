@@ -34,6 +34,7 @@ https://docs.google.com/spreadsheets/d/10NltoF_6y3mBwUzQ4bcQLQfCE1BWSgUDcJXy-Qp2
 
 https://kubernetes.academy/assessment/results
 
+
 #### 8. Basic kubernetes tutorials
 
 https://dev.to/sendilkumarn/kubernetes-for-everyone-opb
@@ -78,3 +79,8 @@ https://developer.ibm.com/solutions/container-orchestration-and-deployment/?p1=S
 #### service mesh
 https://www.youtube.com/watch?v=jXjvnKIprq4
 
+
+
+
+#### ingress
+https://raw.githubusercontent.com/kubernetes/ingress-nginx/master/deploy/static/mandatory.yaml
