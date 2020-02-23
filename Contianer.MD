@@ -84,3 +84,8 @@ https://www.youtube.com/watch?v=jXjvnKIprq4
 
 #### ingress
 https://raw.githubusercontent.com/kubernetes/ingress-nginx/master/deploy/static/mandatory.yaml
+
+
+
+#### kubernetes in aws
+https://www.youtube.com/watch?v=8OPkt93WyPA
