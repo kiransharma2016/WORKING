@@ -11,3 +11,4 @@ https://www.youtube.com/watch?v=PJlAnR3asGQ
 
 #### microservices
 https://www.youtube.com/watch?v=y8IQb4ofjDo&list=PLqq-6Pq4lTTZSKAFG6aCDVDP86Qx4lNas
+https://www.youtube.com/watch?v=tuJqH3AV0e8&t=5s
