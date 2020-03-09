@@ -20,3 +20,8 @@ https://aws.amazon.com/premiumsupport/knowledge-center/create-connection-vpc/
 
 #### Ssa full video course
 https://www.youtube.com/watch?v=Ia-UEYYR44s&t=933s
+
+
+
+#############----------Azure
+https://www.youtube.com/watch?v=tDuruX7XSac
