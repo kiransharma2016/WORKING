@@ -16,3 +16,7 @@ https://medium.com/@mda590/aws-routing-101-67879d23014d
 
 #### vpn setup 
 https://aws.amazon.com/premiumsupport/knowledge-center/create-connection-vpc/
+
+
+#### Ssa full video course
+https://www.youtube.com/watch?v=Ia-UEYYR44s&t=933s
