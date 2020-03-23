@@ -87,3 +87,7 @@ https://www.youtube.com/watch?v=8OPkt93WyPA
 
 #### sexurity with kubernetes
 https://www.youtube.com/watch?v=8iWYvilOlkM
+
+
+#### good kubernetes
+https://learnk8s.io/training
