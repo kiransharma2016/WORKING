@@ -91,3 +91,7 @@ https://www.youtube.com/watch?v=8iWYvilOlkM
 
 #### good kubernetes
 https://learnk8s.io/training
+
+
+#### docker series
+https://github.com/CodeMazeBlog/docker-series/tree/docker-series-docker-compose-end
