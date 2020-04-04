@@ -95,3 +95,6 @@ https://learnk8s.io/training
 
 #### docker series
 https://github.com/CodeMazeBlog/docker-series/tree/docker-series-docker-compose-end
+
+#### continer ssl 
+https://www.humankode.com/ssl/how-to-set-up-free-ssl-certificates-from-lets-encrypt-using-docker-and-nginx
