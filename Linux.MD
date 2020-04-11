@@ -5,3 +5,6 @@ https://www.cyberciti.biz/faq/howto-copy-mbr/
 https://www.golinuxcloud.com/configure-iscsi-target-initiator-targetcli-rhel-centos-7/
 
 https://linuxacademy.com/guide/21208-how-to-share-your-storage-with-iscsi/
+
+basic scripting
+https://linoxide.com/linux-shell-script/shell-scripting-interview-questions-answers/
