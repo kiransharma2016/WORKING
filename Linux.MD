@@ -12,3 +12,6 @@ https://linoxide.com/linux-shell-script/shell-scripting-interview-questions-answ
 
 ### sed 
 https://stackoverflow.com/questions/2914220/bash-templating-how-to-build-configuration-files-from-templates-with-bash
+
+### rhcsa
+https://www.youtube.com/watch?v=4P23_rhyTgc
