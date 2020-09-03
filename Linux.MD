@@ -15,3 +15,7 @@ https://stackoverflow.com/questions/2914220/bash-templating-how-to-build-configu
 
 ### rhcsa
 https://www.youtube.com/watch?v=4P23_rhyTgc
+
+
+scripts
+sed -i '/CLIENTSCRIPT="foo"/a CLIENTSCRIPT2="hello"' file
