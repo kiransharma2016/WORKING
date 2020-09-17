@@ -1,0 +1,13 @@
+$TTL 86400
+@   IN  SOA     masterdns.bipratech.local. root.bipratech.local. (
+        2011071001  ;Serial
+        3600        ;Refresh
+        1800        ;Retry
+        604800      ;Expire
+        86400       ;Minimum TTL
+)
+@       IN  NS          masterdns.bipratech.local.
+@       IN  A           10.0.0.13 
+masterdns       IN  A   10.0.0.13
+vcentre         IN  A   10.0.0.14 
+esxi-01         IN  A   10.0.0.15 
