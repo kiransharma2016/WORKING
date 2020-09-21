@@ -1,0 +1,1 @@
+https://www.redhat.com/en/technologies/cloud-computing/openshift/try-it?sc_cid=7013a000002DhcOAAS&gclid=CjwKCAjw-5v7BRAmEiwAJ3DpuF_rSumC_19kU5d3a2BuXzvgXuqeuuhuvlBTe9mihbOQTWVvS84yvRoC_AkQAvD_BwE&gclsrc=aw.ds
