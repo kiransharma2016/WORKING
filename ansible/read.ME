@@ -1,0 +1,6 @@
+copying register variable to a file
+
+- local_action:
+      module: copy
+      content: "{{ result.results |to_nice_json }}"
+      dest: "/root/yumlist.yml"
