@@ -7,3 +7,8 @@ https://www.youtube.com/watch?v=RnFGwxJwx-0&ab_channel=GreatLearning
 
 Machine learning
 https://www.youtube.com/watch?v=RnFGwxJwx-0&ab_channel=GreatLearning
+
+
+
+Data structure
+https://www.youtube.com/watch?v=YOfXMQnUlZY&ab_channel=Geek%27sLesson
