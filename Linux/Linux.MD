@@ -19,3 +19,7 @@ https://www.youtube.com/watch?v=4P23_rhyTgc
 
 scripts
 sed -i '/CLIENTSCRIPT="foo"/a CLIENTSCRIPT2="hello"' file
+
+
+getops 
+https://linuxconfig.org/how-to-use-getopts-to-parse-a-script-options
