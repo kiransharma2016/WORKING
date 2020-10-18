@@ -11,3 +11,12 @@ esc:num,num$d
 eg esc :1$d or exc 1,2$d
 
 #### removing line starting with # using sed
+
+
+# adding a word in a line with sed
+
+sed '/boot/ s/defaults/defaults test/' fstab
+
+
+
+boot is a word in the line. 
