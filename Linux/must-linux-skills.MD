@@ -19,4 +19,5 @@ sed '/boot/ s/defaults/defaults test/' fstab
 
 
 
-boot is a word in the line. 
+boot is a word in the line. added test after defaults.
+
