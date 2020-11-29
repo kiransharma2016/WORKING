@@ -1,1 +1,3 @@
 https://alexharv074.github.io/
+
+https://blog.aurynn.com/2017/2/23-fun-with-terraform-template-rendering
