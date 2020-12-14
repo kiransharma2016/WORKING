@@ -14,3 +14,5 @@ systemctl daemon-reload
 systemctl restart docker
 
 # setting kubernetes cri-o as container runtime
+https://github.com/cri-o/cri-o\
+https://github.com/kubernetes/minikube/issues/8480
