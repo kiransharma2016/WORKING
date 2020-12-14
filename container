@@ -13,3 +13,4 @@ Then reload daemon and restart docker
 systemctl daemon-reload
 systemctl restart docker
 
+# setting kubernetes cri-o as container runtime
