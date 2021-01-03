@@ -9,3 +9,10 @@ run this
 
 server 
 tcpdump
+
+
+make ip as ifconfig
+alias ifconfig="ip -c a | sed -e 's/\// \//g'"
+
+
+
