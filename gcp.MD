@@ -7,3 +7,7 @@ https://cloud.google.com/vpc/docs/using-firewalls
 
 list sa
 gcloud iam service-accounts list
+
+
+good resources for gcp
+https://codelabs.developers.google.com/codelabs/cloud-deploy-website-on-gke
