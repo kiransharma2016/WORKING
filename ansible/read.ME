@@ -23,3 +23,20 @@ https://stackoverflow.com/questions/32750965/how-do-i-replace-blank-spaces-with-
 
 organizing hosts
 https://github.com/ansible/ansible/issues/25894
+
+
+---------test playbook
+---
+- hosts: 127.0.0.1
+  connection: local
+  tasks:
+  - debug: msg="the value of foo.txt is {{lookup('file', '/home/vagrant/foo.txt') }}"
+
+  - name: display multiple file contents
+    debug: var=item
+    with_file:
+      - "/home/vagrant/foo.txt"
+      - "/home/vagrant/bar.txt"  # will be looked in files/ dir relative to play or in role
+      - "/home/vagrant/biz.txt"
+~
+~
