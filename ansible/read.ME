@@ -11,6 +11,8 @@ https://blog.crisp.se/2016/10/20/maxwenzin/how-to-append-to-lists-in-ansible
 
 Localhost in ansible 
 connection=local --inventory 127.0.0.1
+
+ansible -c local -i 'localhost,'  -M . -m bashmod -a 'dest=test.txt state=present' all
 --------
 useful resources for python
 codegrepper python
