@@ -8,3 +8,5 @@ https://www.openshift.com/blog/deploying-jenkins-on-openshift-part-1
 
 useful blog
 https://devops4solutions.medium.com/setup-ssh-key-and-initial-user-using-ansible-playbook-61eabbb0dba4
+
+https://www.bogotobogo.com/DevOps/Ansible/Ansible-SSH-Connection-Setup-Run-Command.php
