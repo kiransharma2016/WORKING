@@ -16,3 +16,4 @@ alias ifconfig="ip -c a | sed -e 's/\// \//g'"
 
 
 
+ssh to execute command that need sudo and passwrod 
