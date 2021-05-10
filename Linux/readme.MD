@@ -19,5 +19,5 @@ alias ifconfig="ip -c a | sed -e 's/\// \//g'"
 ssh to execute command that need sudo and passwrod 
 
 
-# greap a string with different part eg abcd(right|left)[1--3][end]
+# 'greap a string with different part eg abcd(right|left)[1--3]end
 
