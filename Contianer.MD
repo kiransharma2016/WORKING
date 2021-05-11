@@ -103,3 +103,9 @@ https://github.com/CodeMazeBlog/docker-series/tree/docker-series-docker-compose-
 
 #### continer ssl 
 https://www.humankode.com/ssl/how-to-set-up-free-ssl-certificates-from-lets-encrypt-using-docker-and-nginx
+
+
+Setting up docker volume (docker-storate-setup) with ansible 
+copy:
+   contents: "VG=docker-vg\n"
+   dest: "/etc/sysconfig/docker-storage-setup"
