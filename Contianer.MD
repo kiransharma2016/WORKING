@@ -109,3 +109,14 @@ Setting up docker volume (docker-storate-setup) with ansible
 copy:
    contents: "VG=docker-vg\n"
    dest: "/etc/sysconfig/docker-storage-setup"
+
+
+
+Docker Logs option 
+
+--log-driver=json-file
+--log-opt 
+  max-size=2gb
+  --log-opt
+  max-file=3
+  
