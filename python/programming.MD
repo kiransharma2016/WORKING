@@ -15,3 +15,20 @@ https://www.youtube.com/watch?v=tuJqH3AV0e8&t=5s
 
 installing python
 https://developers.redhat.com/blog/2018/08/13/install-python3-rhel/
+
+
+changing standard output to a file inside python
+import sys
+
+print('This message will be displayed on the screen.')
+
+original_stdout = sys.stdout # Save a reference to the original standard output
+
+with open('stuoutsample.txt', 'w') as afile:
+    sys.stdout = afile
+    
+    
+    now onward anything we print, that will go to the file eg
+    
+    
+    
