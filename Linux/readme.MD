@@ -30,11 +30,11 @@ ssh to execute command that need sudo and passwrod
 Regex
   https://unix.stackexchange.com/questions/163726/limit-grep-context-to-n-characters-on-line
   
-file: sharma,kiran 
-  neupane,mina
-  named: file
-sed -r 's/([a-zA-Z]+)\,([a-zA-Z]+)/\2 \1/g' file
-kiran sharma
+file: sharma,kiran\
+  neupane,mina\
+  named: file\
+sed -r 's/([a-zA-Z]+)\,([a-zA-Z]+)/\2 \1/g' file\
+kiran sharma\
 mina neupane
 
   
