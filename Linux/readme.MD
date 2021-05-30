@@ -47,4 +47,7 @@ mina neupane
 7 min 32 sec \
 1 min 22 sec
 
+One more 
   
+echo "123-456-7890" | sed -r 's/[0-9]{3}\-[0-9]{3}\-([0-9]{4})/###-### \1 /g'
+
