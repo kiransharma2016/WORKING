@@ -28,7 +28,7 @@ ssh to execute command that need sudo and passwrod
   openssl -in file -issuers -subject -dates -noout 
   
 Regex
-  https://unix.stackexchange.com/questions/163726/limit-grep-context-to-n-characters-on-line
+https://unix.stackexchange.com/questions/163726/limit-grep-context-to-n-characters-on-line
   
 file: sharma,kiran\
   neupane,mina\
@@ -51,3 +51,6 @@ One more
   
 echo "123-456-7890" | sed -r 's/[0-9]{3}\-[0-9]{3}\-([0-9]{4})/###-### \1 /g'
 
+slight different format\
+echo "(123)-456-7890" | sed  -r 's/\([0-9]{3}\)\-[0-9]{3}\-([0-9]{4})/###-### \1 /g'
+  
