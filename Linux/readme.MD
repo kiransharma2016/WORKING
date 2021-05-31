@@ -23,9 +23,9 @@ ssh to execute command that need sudo and passwrod
 
 
   
-  ----------openssl list cert
+----------openssl list cert
   
-  openssl -in file -issuers -subject -dates -noout 
+openssl -in file -issuers -subject -dates -noout 
   
 Regex
 https://unix.stackexchange.com/questions/163726/limit-grep-context-to-n-characters-on-line
