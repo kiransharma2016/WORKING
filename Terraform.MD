@@ -1,4 +1,4 @@
-how to organise the tf files 
+how to organise the tf files \
 https://smartlogic.io/blog/how-i-organize-terraform-modules-off-the-beaten-path/
 
 
@@ -10,7 +10,7 @@ https://smartlogic.io/blog/how-i-organize-terraform-modules-off-the-beaten-path/
 
 
 
-aws command line 
+#### aws command line 
 listing ec2 instnce only in tobular form
 aws ec2 describe-instances ^
     --filters Name=tag-key,Values=Name ^
