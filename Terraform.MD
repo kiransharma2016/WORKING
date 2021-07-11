@@ -19,3 +19,6 @@ aws ec2 describe-instances ^
     
     Source: https://docs.aws.amazon.com/cli/latest/reference/ec2/describe-instances.html
     
+
+#### Best tf resources
+https://www.koding.com/docs/terraform/providers/aws/r/instance.html/https://www.koding.com/docs/terraform/providers/aws/r/instance.html/
