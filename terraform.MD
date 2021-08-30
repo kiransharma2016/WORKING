@@ -11,3 +11,11 @@ https://github.com/nearform/tf-modules-example/tree/master/environments/staging
 aks with terraform
 
 https://docs.microsoft.com/en-us/azure/developer/terraform/create-k8s-cluster-with-tf-and-aks
+
+
+
+Locl executor ( eg for display message)
+
+provisioner "local-exec"{
+cp,,amd = " echo 'sleeping for 600 seconds forcreating .........."
+}
