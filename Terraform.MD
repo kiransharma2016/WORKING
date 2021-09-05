@@ -22,3 +22,7 @@ aws ec2 describe-instances ^
 
 #### Best tf resources
 https://www.koding.com/docs/terraform/providers/aws/r/instance.html/https://www.koding.com/docs/terraform/providers/aws/r/instance.html/
+
+#### A blog on how to use tf as a pro
+
+https://iamondemand.com/blog/how-to-use-terraform-like-a-pro-part-2/
