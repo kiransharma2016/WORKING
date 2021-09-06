@@ -26,3 +26,7 @@ https://www.koding.com/docs/terraform/providers/aws/r/instance.html/https://www.
 #### A blog on how to use tf as a pro
 
 https://iamondemand.com/blog/how-to-use-terraform-like-a-pro-part-2/
+
+someuse ful stuff 
+https://discuss.hashicorp.com/t/error-missing-newline-after-argument/8458/2
+
