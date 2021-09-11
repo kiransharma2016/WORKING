@@ -12,3 +12,5 @@ https://dev.to/amitsaha/how-to-set-up-log-forwarding-in-a-kubernetes-cluster-usi
 useful doc
 https://devopscube.com/cks-exam-guide-tips/
 
+
+https://k21academy.com/docker-kubernetes/certified-kubernetes-administrator-cka-certification-training-step-by-step-activity-guides-hands-on-lab-exercise/
