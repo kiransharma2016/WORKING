@@ -53,3 +53,8 @@ echo "(123)-456-7890" | sed  -r 's/\([0-9]{3}\)\-[0-9]{3}\-([0-9]{4})/###-### \1
 extract zipcode from state and zip 
 echo "NY 20102" |sed -r 's/([A-Z]+)\s+([0-9]{5})/\2/g'
   
+Listing only directory 
+  
+  
+  ls -l |grep '^d'
+  
