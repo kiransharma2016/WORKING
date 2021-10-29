@@ -58,3 +58,7 @@ Listing only directory
   
   ls -l |grep '^d'
   
+
+  
+  #### deleting file in the whole directories tree 
+  find . -type d -name "<diroctory  name or .terraform* " -prune -exec rm -rf {} \;
