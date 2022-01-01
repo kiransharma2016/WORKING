@@ -25,3 +25,7 @@ https://www.youtube.com/watch?v=Ia-UEYYR44s&t=933s
 
 #############----------Azure
 https://www.youtube.com/watch?v=tDuruX7XSac
+
+
+####CLI
+https://cloudaffaire.com/how-to-create-an-aws-ec2-instance-using-aws-cli/
