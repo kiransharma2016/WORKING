@@ -6,3 +6,7 @@ https://examples.openshift.pub/build/
 
 very useful
 https://guardiumnotes.wordpress.com/2021/09/09/automation-of-openshift-and-guardium-insights-installation-on-bare-metal/#7a
+
+
+good document
+https://guardiumnotes.wordpress.com/2021/09/09/automation-of-openshift-and-guardium-insights-installation-on-bare-metal/#7a
