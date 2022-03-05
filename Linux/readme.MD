@@ -53,12 +53,16 @@ echo "(123)-456-7890" | sed  -r 's/\([0-9]{3}\)\-[0-9]{3}\-([0-9]{4})/###-### \1
 extract zipcode from state and zip 
 echo "NY 20102" |sed -r 's/([A-Z]+)\s+([0-9]{5})/\2/g'
   
-Listing only directory 
-  
-  
-  ls -l |grep '^d'
+####Listing only directory 
+    ls -l |grep '^d'
   
 
   
   #### deleting file in the whole directories tree 
   find . -type d -name "<diroctory  name or .terraform* " -prune -exec rm -rf {} \;
+
+    
+    
+    #### good repo
+    https://github.com/mrmichaelmoro/shell-functions
+    
