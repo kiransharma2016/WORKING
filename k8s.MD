@@ -19,3 +19,7 @@ https://k21academy.com/docker-kubernetes/certified-kubernetes-administrator-cka-
 Ingress controller 
 https://rakeshjain-devops.medium.com/how-to-install-python-3-on-centos-7-7-using-yum-and-source-and-set-as-default-1dee13396f7
 
+
+
+####Insalling kubernetes on-prem
+https://github.com/wardviaene/on-prem-or-cloud-agnostic-kubernetes/
