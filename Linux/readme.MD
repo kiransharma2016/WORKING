@@ -66,3 +66,8 @@ echo "NY 20102" |sed -r 's/([A-Z]+)\s+([0-9]{5})/\2/g'
     #### good repo
     https://github.com/mrmichaelmoro/shell-functions
     
+
+    
+   ####-----------Delete blank line whihc is not delete by /^$/d
+    g/^\s*$/d
+    
