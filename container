@@ -16,3 +16,7 @@ systemctl restart docker
 # setting kubernetes cri-o as container runtime
 https://github.com/cri-o/cri-o\
 https://github.com/kubernetes/minikube/issues/8480
+
+
+#### very good kubernetes resources
+https://nahuelhernandez.com/blog/ingress_and_external_dns_with_route53_on_eks/
