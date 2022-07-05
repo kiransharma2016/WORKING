@@ -71,3 +71,8 @@ echo "NY 20102" |sed -r 's/([A-Z]+)\s+([0-9]{5})/\2/g'
    ####-----------Delete blank line whihc is not delete by /^$/d
     g/^\s*$/d
     
+
+
+#### sed
+Replacing first The or the with This or this \
+sed 's/\(.[Tt]\)he /\1his /'
