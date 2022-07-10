@@ -27,6 +27,8 @@ https://www.koding.com/docs/terraform/providers/aws/r/instance.html/https://www.
 
 https://iamondemand.com/blog/how-to-use-terraform-like-a-pro-part-2/
 
-someuse ful stuff 
+#### someuseful stuff 
 https://discuss.hashicorp.com/t/error-missing-newline-after-argument/8458/2
 
+#### dynamic block
+https://jhooq.com/terraform-dynamic-block/
