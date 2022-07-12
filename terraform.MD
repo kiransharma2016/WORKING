@@ -20,3 +20,7 @@ cp,,amd = " echo 'sleeping for 600 seconds forcreating .........."
 
 #### example
 https://www.bogotobogo.com/DevOps/Terraform/Terraform-Introduction-AWS-S3-SQS.php
+
+
+# good tutorials series
+https://devopslearning.medium.com/21-days-of-aws-using-terraform-day-1-introduction-to-terraform-fe2cc5b4075
