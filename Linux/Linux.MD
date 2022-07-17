@@ -23,3 +23,9 @@ sed -i '/CLIENTSCRIPT="foo"/a CLIENTSCRIPT2="hello"' file
 
 getops 
 https://linuxconfig.org/how-to-use-getopts-to-parse-a-script-options
+
+
+#### how to kill zonbiee process
+
+azure ml
+https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-machine-learning-service/2-azure-ml-workspace
