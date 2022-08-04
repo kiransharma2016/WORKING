@@ -6,3 +6,7 @@ https://cloudaffaire.com/how-to-execute-a-command-using-aws-ssm-run-command/
 goog automation script 
 https://cloudaffaire.com/how-to-execute-a-command-using-aws-ssm-run-command/
 
+
+#### lambda to assume role from another aws account
+
+https://aws.amazon.com/premiumsupport/knowledge-center/lambda-function-assume-iam-role/
