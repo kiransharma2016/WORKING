@@ -23,3 +23,6 @@ https://rakeshjain-devops.medium.com/how-to-install-python-3-on-centos-7-7-using
 
 ####Insalling kubernetes on-prem
 https://github.com/wardviaene/on-prem-or-cloud-agnostic-kubernetes/
+
+#### how to create operator in k8s
+https://betterprogramming.pub/build-a-kubernetes-operator-in-10-minutes-11eec1492d30
