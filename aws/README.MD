@@ -13,4 +13,9 @@ https://aws.amazon.com/premiumsupport/knowledge-center/lambda-function-assume-ia
 
 
 #### aws lambda workshop
+
 https://service-catalog-tools-workshop.com/every-day-use/680-using-policy-simulations.html
+
+
+#### interview
+https://medium.com/javarevisited/100-days-to-amazon-day-1-b9e07228f079
