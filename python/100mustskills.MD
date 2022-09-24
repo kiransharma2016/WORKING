@@ -12,3 +12,7 @@ kiran & ram
 
 #### 2. free python programming books
 https://www.theinsaneapp.com/2021/05/best-free-python-programming-books.html
+
+
+#### 100 amazon java programming challenges
+https://medium.com/javarevisited/100-days-to-amazon-day-1-b9e07228f079
