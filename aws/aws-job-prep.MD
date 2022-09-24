@@ -6,3 +6,7 @@
 
 3. 10 hours videos
 https://www.youtube.com/watch?v=Ia-UEYYR44s
+
+
+coding excercise
+https://leetcode.com/discuss/interview-question/1759431/amazon-oa-sum-of-server-powers
