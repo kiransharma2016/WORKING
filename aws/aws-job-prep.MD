@@ -8,5 +8,8 @@
 https://www.youtube.com/watch?v=Ia-UEYYR44s
 
 
-coding excercise
+#### coding excercise
 https://leetcode.com/discuss/interview-question/1759431/amazon-oa-sum-of-server-powers
+
+## some problem solving 
+https://stackoverflow.com/questions/71034111/how-to-set-default-python3-to-python-3-9-instead-of-python-3-8-in-ubuntu-20-04-l
