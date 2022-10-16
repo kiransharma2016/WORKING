@@ -19,3 +19,5 @@ https://service-catalog-tools-workshop.com/every-day-use/680-using-policy-simula
 
 #### interview
 https://medium.com/javarevisited/100-days-to-amazon-day-1-b9e07228f079
+#### create efs file system
+https://www.eksworkshop.com/beginner/190_efs/launching-efs/#:~:text=An%20EFS%20file%20system%20may,inside%20the%20EKS%20cluster%20VPC.
