@@ -25,3 +25,7 @@ https://www.eksworkshop.com/beginner/190_efs/launching-efs/#:~:text=An%20EFS%20f
 
 #### aws/cgp/azure comparation
 https://cloud.google.com/free/docs/aws-azure-gcp-service-comparison
+
+
+service catalog autobuild
+https://www.t-systems.com/de/en/newsroom/expert-blogs/aws-service-catalog-how-to-set-up-self-service--455234
