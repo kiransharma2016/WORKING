@@ -1,0 +1,14 @@
+ovmf
+https://developer.fedoraproject.org/tools/virtualization/fetching-ovmf-uefi-from-the-correct-source.html
+
+guest addiion instllation 
+
+
+download iso 
+attached to the vm ( mount as CD)
+
+install from command line or from desktop 
+
+http://download.virtualbox.org/virtualbox/7.0.10/
+
+inside vm, do df -h and found the path. go and run program
