@@ -11,3 +11,8 @@ gcloud iam service-accounts list
 
 good resources for gcp
 https://codelabs.developers.google.com/codelabs/cloud-deploy-website-on-gke
+
+
+
+useful creating nfs in gcp
+https://devopscube.com/nfs-servers-google-cloud-filestore/
