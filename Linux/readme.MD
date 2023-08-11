@@ -76,3 +76,9 @@ echo "NY 20102" |sed -r 's/([A-Z]+)\s+([0-9]{5})/\2/g'
 #### sed
 Replacing first The or the with This or this \
 sed 's/\(.[Tt]\)he /\1his /'
+
+
+
+
+Monitoring resources \
+https://documentation.elasticpath.com/cloudops-kubernetes/docs/2.6.x/architecture/monitoring.html
