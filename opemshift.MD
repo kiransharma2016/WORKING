@@ -6,3 +6,7 @@ https://speakerdeck.com/redhatopenshift/whats-new-in-openshift-container-platfor
 
 
 https://examples.openshift.pub/certificate/
+
+
+list images 
+https://stackoverflow.com/questions/65756558/kubernetes-list-all-containers-os-name-and-version-os-distro?rq=3
